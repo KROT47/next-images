@@ -1,12 +1,11 @@
 {
   "name": "next-images",
-  "version": "1.4.1",
+  "version": "2.0.0",
   "main": "index.js",
-  "types": "index.d.ts",
   "license": "MIT",
-  "repository": "arefaslani/next-images",
+  "repository": "KROT47/next-images",
   "dependencies": {
     "file-loader": "^6.0.0",
-    "url-loader": "^4.0.0"
+    "url-loader": "^4.1.0"
   }
 }
